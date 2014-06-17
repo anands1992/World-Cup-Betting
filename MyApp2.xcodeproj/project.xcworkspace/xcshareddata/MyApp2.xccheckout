@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BAA55D54-33AF-4DAC-828B-1A56C146BC70</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyApp2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>EF656289-4954-401F-8D9E-349FB110C50B</key>
+		<string>https://github.com/anands1992/World-Cup-Betting.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyApp2.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>EF656289-4954-401F-8D9E-349FB110C50B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/anands1992/World-Cup-Betting.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>EF656289-4954-401F-8D9E-349FB110C50B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EF656289-4954-401F-8D9E-349FB110C50B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>World-Cup-Betting</string>
+		</dict>
+	</array>
+</dict>
+</plist>
